@@ -3,11 +3,11 @@
 
 ## Rien a installer juste cloner le projet ou 
 
- télécharger le zip et le décompresser ou vous 
+## télécharger le zip et le décompresser ou vous 
 
- voulez puis ouvrir votre IDE préférer et a le 
+## voulez puis ouvrir votre IDE préférer et a le 
 
-lancer amusez vous bien avec  
+## lancer amusez vous bien avec  
 
 
 
