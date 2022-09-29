@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Calculateur IMC</title>
+  </head>
+  <body>
+    <div id="showcase">
+      <div class="container">
+        <div class="overlay">
+          <h1>Calculateur IMC</h1>
+          <div class="wrapper">
+            <div class="group">
+              <label for="taille">votre Taille:</label>
+              <input
+                type="number"
+                name="taille"
+                id="taille"
+                placeholder="taille en cm"
+                required
+              />
+              <label for="poid">Poid:</label>
+              <input
+                type="number"
+                name="poid"
+                id="poid"
+                placeholder="poid en kg"
+                required
+              />
+              <button type="button" id="calculer">Calculer</button>
+            </div>
+            <div id="result"></div>
+            <div class="poid-guide">
+              <h2>IMC Poid Guide</h2>
+              <p>Poids insuffisant = Moins que 18.6</p>
+              <p>Normal = 18.6 et 24.9</p>
+              <p>en surpoids = Plus grand que 24.9</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>
