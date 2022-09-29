@@ -1,9 +1,9 @@
 ### APPLI en HTML / JAVASCRIPT
 
 
-#### Rien a installer juste cloner le projet ou 
+#### Rien a installer juste cloner le projet ou vous
 
-#### voulez puis ouvrir votre IDE préférer et a le 
+#### voulez puis ouvrir votre IDE préférer et le 
 
 #### lancer amusez vous bien avec  
 
